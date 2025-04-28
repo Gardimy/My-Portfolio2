@@ -8,8 +8,6 @@ THIS IS THE LAST VERSION OF MY PORTFOLIO
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -75,7 +73,6 @@ devices using html,css, and Javascript by listing the portfolio projects, the se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 

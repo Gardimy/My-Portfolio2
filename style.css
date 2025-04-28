@@ -499,13 +499,8 @@ span {
   flex-direction: column;
   text-align: center;
   padding: 0 4rem;
-  /*transform: translateY(100%);*/
   transition: 0.5s ease;
 }
-
-/*.portfolio-box:hover .portfolio-layer {
-  transform: translateY(0);
-}*/
 
 .portfolio-layer h4 {
   font-size: 2rem;
@@ -521,23 +516,21 @@ span {
   list-style: none;
   padding: 0;
   display: flex;
-  gap: 1.5rem; /* Adjust the gap between items as needed */
+  gap: 1.5rem;
 }
 
 .styled-list-item {
-  background: var(--second-bg-color); /* Adjust the background color as needed */
-  color: #ffffff; /* Adjust the text color as needed */
+  background: var(--second-bg-color);
+  color: white;
   padding: 3px;
   border-radius: 3px;
 }
 
-/* Optional: Add hover effect */
 .styled-list-item:hover {
-  background: var(--second-bg-color); /* Adjust the hover background color */
+  background: var(--second-bg-color);
   cursor: pointer;
 }
 
-/* Add this style for the links */
 .portfolio-box .portfolio-links {
   display: flex;
   gap: 1rem;
