@@ -521,7 +521,7 @@ span {
 
 .styled-list-item {
   background: var(--second-bg-color);
-  color: #ffffff;
+  color: white;
   padding: 3px;
   border-radius: 3px;
 }
