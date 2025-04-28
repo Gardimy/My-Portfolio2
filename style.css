@@ -499,7 +499,6 @@ span {
   flex-direction: column;
   text-align: center;
   padding: 0 4rem;
-
   transition: 0.5s ease;
 }
 
@@ -522,7 +521,7 @@ span {
 
 .styled-list-item {
   background: var(--second-bg-color);
-  color: #ffffff;
+  color: white;
   padding: 3px;
   border-radius: 3px;
 }
